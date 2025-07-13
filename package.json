@@ -1,6 +1,6 @@
 {
   "name": "npm-demo-changesets",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
@@ -14,7 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/AlexeyPopovUA/npm-demo-changesets.git"
   },
-  "keywords": ["demo", "changesets", "npm"],
+  "keywords": [
+    "demo",
+    "changesets",
+    "npm"
+  ],
   "author": "Oleksii Popov",
   "license": "MIT",
   "bugs": {
