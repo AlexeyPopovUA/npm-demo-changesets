@@ -1,0 +1,28 @@
+{
+  "name": "npm-demo-changesets",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "test": "echo 'Tests passed'",
+    "changeset": "changeset",
+    "version": "changeset version",
+    "release": "changeset publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyPopovUA/npm-demo-changesets.git"
+  },
+  "keywords": ["demo", "changesets", "npm"],
+  "author": "Oleksii Popov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexeyPopovUA/npm-demo-changesets/issues"
+  },
+  "homepage": "https://github.com/AlexeyPopovUA/npm-demo-changesets#readme",
+  "description": "Demo library showcasing Changesets automation",
+  "devDependencies": {
+    "@changesets/cli": "^2.27.0"
+  }
+}
