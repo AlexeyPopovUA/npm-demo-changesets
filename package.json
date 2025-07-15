@@ -7,7 +7,7 @@
     "build": "echo 'Build complete'",
     "test": "echo 'Tests passed'",
     "changeset": "changeset",
-    "version": "changeset version",
+    "version": "changeset version && npm install --package-lock-only",
     "release": "changeset publish"
   },
   "repository": {
