@@ -1,5 +1,7 @@
 # npm-demo-changesets
 
+[![NPM Package](https://img.shields.io/npm/v/npm-demo-changesets)](https://www.npmjs.com/package/npm-demo-changesets)
+
 Demo library showcasing **Changesets** automation for NPM package publishing.
 
 ## Features
@@ -83,3 +85,7 @@ Pushes to `feature/**` or `feat/**` branches publish pre-release versions with b
 - **Collaborative**: Multiple people can contribute to changelogs
 - **Flexible**: Full control over versioning decisions
 - **Transparent**: Clear audit trail of what's being released
+
+## Learn More
+
+This demo repository is featured in the comprehensive guide: [**"The Ultimate Guide to NPM Release Automation: Semantic Release vs Release Please vs Changesets"**](https://oleksiipopov.com/blog/npm-release-automation/) - a detailed comparison of different NPM release automation tools with practical examples.
